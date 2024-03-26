@@ -1,0 +1,10 @@
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+D:\Бесова\repair\repair\obj\Debug\repair.Аuth.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Manager_menu.resources
+D:\Бесова\repair\repair\obj\Debug\repair.NewExecutor.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Order.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Properties.Resources.resources
+D:\Бесова\repair\repair\obj\Debug\repair.User_windows.resources
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
